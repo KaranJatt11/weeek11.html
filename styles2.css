@@ -1,0 +1,42 @@
+ {
+    margin: 0;
+    padding: 0;
+}
+body{
+
+    background-color: black;
+height:3000px;
+}
+div.menu {
+    background-color: white;
+text-align:center;
+
+}
+.intro {
+    height:50px;
+    width:300px;
+ color: white;
+border: 3px dotted blue;
+margin:auto;
+text-align:center;
+margin-top:20px;
+border-radius: 8px;
+padding: 30px}
+.middle-box {
+   
+    background-color: green;
+    margin:10px 10px;
+    width:170px;
+    margin:auto;
+    height:100px;
+    margin-top:30px;
+    margin-bottom:20px;
+    padding:20px;
+    color:white;
+
+}
+.full-box  {
+background-color: red;
+margin-top: 100px;
+}
+

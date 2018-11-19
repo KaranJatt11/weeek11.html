@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+
+    background-color: black;
+
+}
+div.menu {
+    background-color: white;
+text-align:center;
+
+}
+p {
+    height:20px;
+    width:300px;
+ color: white;
+border: 3px dotted blue;
+margin:auto;
+text-align:center;
+margin-top:20px;
+border-radius: 8px;
+padding: 30px 70px;
+}
+
+
